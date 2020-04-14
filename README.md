@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/TradersDemo/TradersDemoDevOps/_apis/build/status/wueda.TailwindTraders-Website?branchName=master)](https://dev.azure.com/TradersDemo/TradersDemoDevOps/_build/latest?definitionId=3&branchName=master)
+
+
 # Tailwind Traders Website
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
